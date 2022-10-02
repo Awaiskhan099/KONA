@@ -764,16 +764,16 @@ if Exception:
                                                 cookie = input(f'''[{h}•{x}] Masukkan Cookies :{b} ''')
                                                 data = requests.get('https://business.facebook.com/business_locations', {
                                                  
-Footer
-© 2022
-Footer 
-Terms
 
 
 
 
-API
 
-Blog
 
-open_source-/Indo_dec.py at main · ranisharma09/open_source-
+
+
+
+
+
+
+ at
