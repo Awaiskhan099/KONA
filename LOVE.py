@@ -1,4 +1,4 @@
-Skip to 
+
 # Source Generated with Decompyle++
 # File: 2.pyc (Python 3.10)
 
